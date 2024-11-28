@@ -34,3 +34,4 @@ EXPOSE 8080
 # start the backend APi service
 
 CMD ["node","build/src/index.js"]
+~                             
